@@ -645,3 +645,18 @@ Twoja planeta jest gotowa! To dzieło inżynierii kosmicznej wymagało od ciebie
 Modelowanie kształtu Planet czyli terraformowanie do badania i tworzenia  Planet przydadzą się wydajniejsze kraty graficzne dlatego  GPU procesor powinien nie być płaski tylko sześcienny prawie że kwadratowy , lecz wymaga to specjalistycznego chłodzenia każdej ze 100 warstw, czyli wiedźmy że połączymy procesory GPU  równolegle jeden nad drugim i jeden obok drugiego pomiędzy każdą warstwa będą przewody do odprowadzania temperatury to rozwiązanie zapewni rawidlowa pracę multi procesora GPU. 
 
 **powodzenia**
+
+**I would like to make my own prototypes of CPU and GPU processors with a cubic structure, layered, cooled each level but I want to apply my mathematics of equations in mathematical programming between E=mc², and E=mc³, and E=mc⁶ the model is tuned correctly**
+
+''' ,,,My question is why are cubic meters defined in the way m³ note these are not cubic meters but three-walled the correct notation should be m⁶.
+Because for example 2 cubic meters are six sides each two meters, and all the engines fly on m³ will I have problems with programming I am a beginner but I am working on a game and I need a model that understands physics correctly and that is why I want to make a program and my own processor prototypes if necessary.
+
+[quote="teslaeco, post:1, topic:22450, full:true"]
+****Chciałbym  zrobić swoje prototypy procesorów CPU i GPU o budowie sześciennej ,warstwowej chłodzonej każdy poziom ale chcę zastosować swoją matematykę równań w  programowania matematycznego po miedzy E=mc² ,a E=mc³ , i E=mc⁶ model dostrojony prawidłowo **
+
+Moje pytanie jest następujące dlaczego metry sześcienne są określane w sposób m³ uwaga to nie metry sześcienne tylko trzy ścienne prawidłowy zapis powinien wyglądać m⁶.
+Ponieważ na przykład 2 metry sześcienne to sześć boków każdy po dwa metry  , a wszystkie silnik latają na m³ czy będę miał problemy z programowaniem  jestem początkującym ale pracuje nad grą i potrzebuje modelu który prawidłowo rozumie fizykę i dlatego chcę zrobić program i własne prototypy procesorów jeśli to będzie konieczność. **
+
+
+∞
+[/quote]
