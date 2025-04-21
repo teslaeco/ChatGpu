@@ -771,6 +771,10 @@ wizja terraformowania planety Ziemia naprawa zniszczonych obszarów
 ![DALLE_This_graphic_is_cool_it_shows_how_you_can_g](https://github.com/user-attachments/assets/a4b9b505-bf4a-41a3-8439-f8d46da43c3a)
 ![file-b0xQTskupve5k5LuAKXEaqNM-1](https://github.com/user-attachments/assets/77dfc018-a788-40a0-9878-aba5fcf49e35)
 ![DALLE_Ceraty_graphic_about_stop_huragan_tornado_st](https://github.com/user-attachments/assets/f690a9a5-10bb-4f25-8a4c-12109bbdc41f)
-powyzej grafiki planu tworzenia gór do wytworzenia cienia i magazynowania sniegu wody do stworzenia rzek upraw itd .
-Ponizej wizja stworzenia nowej planety z meteorytów 
+Powyzej grafiki planu tworzenia gór do wytworzenia cienia i magazynowania sniegu wody do stworzenia rzek upraw itd .
+
+★ **Idea** ★
+
+Ponizej wizja stworzenia nowej planety z meteorytów.
+
 ![a0ae8c17-a0d3-43f2-b64a-c02ef8fb3b79](https://github.com/user-attachments/assets/776a6b3c-9317-4404-9b0f-541f41f7e09b)
