@@ -764,17 +764,19 @@ Imagine a world with no tariffs, fair prices and respect for all. Technology, eq
 
 #ZeroCeł #GlobalnaRówność #JednaPlaneta #FairTrade #EqualPrices #PeaceTech #GlobalUnity #Sustainability #HumanRights #NoBorders #AIforGood #TikTokEdu #ChangeTheWorld #EcoFuture #OpenTrade
 
-wizja terraformowania planety Ziemia naprawa zniszczonych obszarów 
+**wizja terraformowania planety Ziemia naprawa zniszczonych obszarów**
+
 ![Screenshot_20250421-071944](https://github.com/user-attachments/assets/95681f2d-e48e-4e53-8af0-11edd918c23b)
 ![stva](https://github.com/user-attachments/assets/5876ca6b-a366-4394-8cd7-e0f21ad72ca0)
 ![file-nIqa783R7V4WvpIVJM69rx6O](https://github.com/user-attachments/assets/f5ba4dce-b92c-406d-a7c2-3e31b8cd0877)
 ![DALLE_This_graphic_is_cool_it_shows_how_you_can_g](https://github.com/user-attachments/assets/a4b9b505-bf4a-41a3-8439-f8d46da43c3a)
 ![file-b0xQTskupve5k5LuAKXEaqNM-1](https://github.com/user-attachments/assets/77dfc018-a788-40a0-9878-aba5fcf49e35)
 ![DALLE_Ceraty_graphic_about_stop_huragan_tornado_st](https://github.com/user-attachments/assets/f690a9a5-10bb-4f25-8a4c-12109bbdc41f)
-Powyzej grafiki planu tworzenia gór do wytworzenia cienia i magazynowania sniegu wody do stworzenia rzek upraw itd .
+
+**Powyzej grafiki planu tworzenia gór do wytworzenia cienia i magazynowania sniegu wody do stworzenia rzek upraw itd .**
 
 ★ **Idea** ★
 
-Ponizej wizja stworzenia nowej planety z meteorytów.
+**Ponizej wizja stworzenia nowej planety z meteorytów.**
 
 ![a0ae8c17-a0d3-43f2-b64a-c02ef8fb3b79](https://github.com/user-attachments/assets/776a6b3c-9317-4404-9b0f-541f41f7e09b)
