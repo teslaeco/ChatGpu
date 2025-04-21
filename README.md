@@ -660,3 +660,117 @@ Ponieważ na przykład 2 metry sześcienne to sześć boków każdy po dwa metry
 
 ∞
 [/quote]
+![file_0000000031006246900041534f72afe4_conversation_id=67f414e6-98cc-8011-9acd-74954de7d8ac message_id=67a78140-7439-43e5-bf3a-75ef04cc2b11](https://github.com/user-attachments/assets/4d263b8b-875c-44d7-8ed0-91140f7669cf)
+![file_00000000284c6246a0ec1d46ac2bae65](https://github.com/user-attachments/assets/0dc496ad-e964-4edc-a0d1-5f7be039b11c)
+![file_00000000d89462468c770710e934c26e](https://github.com/user-attachments/assets/50874014-e4df-407f-ad72-303090f46349)
+![file_00000000e0186246a1f1a15e59c94c80](https://github.com/user-attachments/assets/1bce11c2-6077-4bba-9d82-54bdc0cd77e7)
+
+Rozmowa z Chat GPT na temat zerowego cła czyli jego globalnym zniesieniu
+Jaki by miało wpływ na światy gdyby wszystkie kraje zlikwidowały cło
+
+Likwidacja ceł na całym świecie miałaby ogromny wpływ na gospodarki, handel i społeczeństwa. Oto kluczowe konsekwencje:
+
+1. Wzrost globalnego handlu
+
+Bez ceł produkty i surowce byłyby tańsze, co zwiększyłoby wymianę handlową. Firmy mogłyby łatwiej eksportować i importować towary, co pobudziłoby rozwój międzynarodowego biznesu.
+
+2. Spadek cen dla konsumentów
+
+Cła podnoszą ceny importowanych produktów. Ich eliminacja obniżyłaby koszty wielu dóbr – od elektroniki po żywność. Konsumenci mogliby kupować taniej, a konkurencja zmusiłaby producentów do oferowania lepszych produktów.
+
+3. Problemy dla lokalnych producentów
+
+Bez ochrony celnej wiele krajowych firm mogłoby mieć trudności z konkurowaniem z tańszymi produktami z zagranicy. W mniej rozwiniętych krajach mogłoby to prowadzić do upadku rodzimej produkcji i wzrostu bezrobocia.
+
+4. Przenoszenie produkcji do tańszych regionów
+
+Firmy mogłyby łatwiej przenosić fabryki tam, gdzie produkcja jest tańsza. Mogłoby to doprowadzić do odpływu miejsc pracy z krajów o wysokich kosztach pracy i większej koncentracji produkcji w Azji, Afryce czy Ameryce Południowej.
+
+5. Słabsza kontrola nad strategicznymi branżami
+
+Niektóre kraje mogą stracić kontrolę nad kluczowymi sektorami, takimi jak przemysł obronny, rolnictwo czy farmacja, ponieważ produkcja zostanie uzależniona od dostaw z innych państw. W kryzysowych sytuacjach (np. pandemie, wojny) mogłoby to stanowić zagrożenie dla bezpieczeństwa narodowego.
+
+6. Efekt na gospodarki rozwijające się
+
+Kraje rozwijające się mogłyby zyskać większy dostęp do światowych rynków, sprzedając swoje produkty bez ograniczeń. Jednak jednocześnie byłyby bardziej narażone na dominację dużych międzynarodowych firm, które mogłyby przejąć ich rynki.
+
+7. Większa integracja gospodarcza i polityczna
+
+Brak ceł zbliżyłby kraje pod względem ekonomicznym, co mogłoby sprzyjać większej współpracy politycznej. Mógłby to być krok w stronę globalnej unii handlowej, podobnej do Unii Europejskiej, ale na skalę całego świata.
+
+8. Problemy dla budżetów państw
+
+Wiele krajów czerpie dochody z ceł. Ich zniesienie oznaczałoby utratę ważnego źródła finansowania, co mogłoby prowadzić do podniesienia innych podatków (np. VAT, podatki dochodowe) lub cięć budżetowych.
+
+Podsumowanie
+
+Likwidacja ceł przyniosłaby korzyści w postaci niższych cen i większego handlu, ale też zagrożenia dla lokalnych gospodarek i stabilności społecznej. Byłoby to korzystne dla dużych międzynarodowych firm i konsumentów, ale mogłoby osłabić lokalnych producentów i wpłynąć na suwerenność gospodarczą wielu krajów. Kluczowe byłoby dostosowanie polityki ekonomicznej, aby uniknąć negatywnych skutków tej zmiany.
+
+Co sądzisz o takim scenariuszu?
+
+A gdyby była najniższą nią krajowa a światowa wypłata równo dla wszystkich na ziemi oraz ceny jednakowe podstawowych produktów firmy nie musiały by się przenosić jak by wtedy wyglądała sytuacja likwidacji cła
+
+Taki scenariusz – światowa równa pensja minimalna oraz jednolite ceny podstawowych produktów – zmieniłby zupełnie dynamikę globalnej gospodarki. Oto możliwe konsekwencje w kontekście likwidacji ceł:
+
+1. Brak taniej siły roboczej = stabilizacja produkcji
+
+Obecnie firmy przenoszą produkcję tam, gdzie koszty pracy są niższe. Jeśli wszędzie byłaby taka sama minimalna pensja, przenoszenie fabryk do tańszych krajów straciłoby sens. Produkcja pozostałaby tam, gdzie są najlepsze warunki technologiczne, surowcowe lub logistyczne, a nie tam, gdzie ludzie zarabiają mniej.
+
+2. Likwidacja ceł = wolny handel bez nierówności
+
+W obecnym systemie cła chronią lokalnych producentów przed tanimi produktami z krajów o niskich kosztach pracy. Gdyby te różnice zniknęły, cła nie byłyby potrzebne – produkty miałyby podobne koszty produkcji, niezależnie od kraju. To oznaczałoby czystą konkurencję na jakość, innowacyjność i ekologię, a nie na taniość.
+
+3. Równość konsumpcyjna – każdy ma dostęp do tych samych produktów
+
+Jeśli podstawowe produkty miałyby jednakowe ceny na całym świecie, nie byłoby skrajnych różnic w dostępie do jedzenia, leków czy mieszkań. W połączeniu z globalną pensją minimalną, nawet osoby w biedniejszych krajach mogłyby pozwolić sobie na te same dobra co mieszkańcy bogatych państw.
+
+4. Firmy skupione na jakości i innowacjach
+
+Dziś firmy często tną koszty, by sprzedawać taniej. Gdyby ceny były ustabilizowane, konkurencja przeniosłaby się na jakość, trwałość i ekologię. Ludzie kupowaliby produkty nie dlatego, że są tańsze, ale dlatego, że są lepsze. Mogłoby to znacząco przyspieszyć rozwój technologiczny.
+
+5. Nowa rola państw – zamiast ceł, regulacje jakościowe
+
+Bez ceł rządy nie mogłyby chronić lokalnych firm przed zagraniczną konkurencją. Mogłyby jednak stosować standardy ekologiczne i jakościowe – np. wymagać, by produkty były biodegradowalne, bezpieczne i trwałe. To oznaczałoby koniec taniej, jednorazowej produkcji, ale wzrost nacisku na ekologię i zrównoważony rozwój.
+
+6. Upadek spekulacji finansowej na ludzkiej pracy
+
+Dzisiaj firmy wykorzystują różnice w zarobkach między krajami, by maksymalizować zyski. W tym systemie nie mogłyby już zaniżać wynagrodzeń w biedniejszych krajach, bo wszyscy zarabialiby przynajmniej globalne minimum. To zmniejszyłoby wyzysk i wpłynęło na bardziej sprawiedliwą dystrybucję bogactwa.
+
+7. Wyzwanie – jak ustalić globalną pensję minimalną?
+
+Największy problem to kto i jak ustaliłby poziom tej pensji? Musiałaby być dostosowana do realiów wszystkich krajów – w przeciwnym razie mogłaby albo powodować inflację, albo prowadzić do zbyt niskiego poziomu życia w krajach rozwiniętych.
+
+Podsumowanie – czy to utopia?
+
+Gdyby takie zasady faktycznie weszły w życie:
+✅ Niepotrzebne byłyby cła – produkty miałyby podobne koszty wszędzie.
+✅ Zniknęłaby konieczność przenoszenia produkcji – fabryki pozostawałyby tam, gdzie jest najlepsza infrastruktura, a nie tam, gdzie jest tania siła robocza.
+✅ Firmy skupiłyby się na jakości, nie taniości – bo cena nie byłaby głównym czynnikiem konkurencji.
+✅ Biedniejsze kraje mogłyby szybciej się rozwijać – bo miałyby lepszy dostęp do technologii i rynków.
+
+Ale też:
+⚠ Kto miałby kontrolować ten system? Musiałaby powstać nowa globalna instytucja, aby nadzorować płace i ceny.
+⚠ Czy kraje by się zgodziły? Bogate państwa mogłyby sprzeciwiać się podziałowi bogactwa na rzecz biedniejszych regionów.
+⚠ Ryzyko inflacji i niedoborów – jeśli płace i ceny byłyby źle ustalone, mogłoby to doprowadzić do chaosu gospodarczego.
+
+To ciekawa wizja – bardziej sprawiedliwego i stabilnego świata. Ale wymagałaby całkowitej zmiany systemu kapitalistycznego, co jest największym wyzwaniem. 
+Wyobraź sobie świat bez ceł, z równymi cenami i szacunkiem dla każdego człowieka. Technologia, równość i globalna solidarność mogą zmienić naszą przyszłość. To nie utopia – to możliwe!
+
+EN:
+Imagine a world with no tariffs, fair prices and respect for all. Technology, equality and global solidarity can change our future. This is not utopia – it's possible!
+
+
+
+
+#ZeroCeł #GlobalnaRówność #JednaPlaneta #FairTrade #EqualPrices #PeaceTech #GlobalUnity #Sustainability #HumanRights #NoBorders #AIforGood #TikTokEdu #ChangeTheWorld #EcoFuture #OpenTrade
+
+wizja terraformowania planety Ziemia naprawa zniszczonych obszarów 
+![Screenshot_20250421-071944](https://github.com/user-attachments/assets/95681f2d-e48e-4e53-8af0-11edd918c23b)
+![stva](https://github.com/user-attachments/assets/5876ca6b-a366-4394-8cd7-e0f21ad72ca0)
+![file-nIqa783R7V4WvpIVJM69rx6O](https://github.com/user-attachments/assets/f5ba4dce-b92c-406d-a7c2-3e31b8cd0877)
+![DALLE_This_graphic_is_cool_it_shows_how_you_can_g](https://github.com/user-attachments/assets/a4b9b505-bf4a-41a3-8439-f8d46da43c3a)
+![file-b0xQTskupve5k5LuAKXEaqNM-1](https://github.com/user-attachments/assets/77dfc018-a788-40a0-9878-aba5fcf49e35)
+![DALLE_Ceraty_graphic_about_stop_huragan_tornado_st](https://github.com/user-attachments/assets/f690a9a5-10bb-4f25-8a4c-12109bbdc41f)
+powyzej grafiki planu tworzenia gór do wytworzenia cienia i magazynowania sniegu wody do stworzenia rzek upraw itd .
+Ponizej wizja stworzenia nowej planety z meteorytów 
+![a0ae8c17-a0d3-43f2-b64a-c02ef8fb3b79](https://github.com/user-attachments/assets/776a6b3c-9317-4404-9b0f-541f41f7e09b)
